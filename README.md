@@ -19,9 +19,6 @@ Learn more about [Gemini CLI Extensions](https://github.com/google-gemini/gemini
 * **Seamless Workflow:** Stay in your CLI. No need to constantly switch contexts to the GCP console for generating analytics insights. .
 * **Leverage prebuilt agent :** Access to advanced insights offered by a built-in agent behind  [Conversational Analytics API](https://cloud.google.com/gemini/docs/conversational-analytics-api/overview)
 
-
-
-
 ## Prerequisites
 
 Before you begin, ensure you have the following:
